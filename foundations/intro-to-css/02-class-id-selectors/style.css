@@ -1,0 +1,21 @@
+.subsection {
+    color: #000000;
+    background-color: #c97373;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.subsection.num3 {
+    font-size: 36px;
+}
+
+#number_2 {
+    color: #0c4af5;
+    font-size: 36px;
+}
+
+#number_4 {
+    color: #000000;
+    background-color: #36f569;
+    font-size: 24px;
+    font-weight: 700;
+}
